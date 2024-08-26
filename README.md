@@ -184,7 +184,6 @@ KNN = KNeighborsClassifier(n_neighbors = n_neighbors)
 KNN.fit(X_train_undersampled, y_train_undersampled)
 ```
 ## Model 2 - Neural Network
-[![Notebook](https://img.shields.io/badge/Notebook-Model%202-orange)](https://colab.research.google.com/github/Julie0827/CSE151A-Project/blob/Milestone4/NeuralNetwork.ipynb) <br>
 
 For this model, we tried using different neural networks to try to uncover any underlying patterns in our data and classify based on that. We one-hot encoded the data and ran a variety of different neural networks on the data. We ended up using a higher number of nodes as well as a combination of `ReLU`, `tanh`, and `sigmoid` activation functions for our best model. <br>
 
@@ -241,7 +240,6 @@ Based on our observations of the loss and accuracy pair plots for the three mode
 
   
 ## Model 3 - Decision Tree
-[![Notebook](https://img.shields.io/badge/Notebook-Model%203-orange)](https://colab.research.google.com/github/Julie0827/CSE151A-Project/blob/Milestone4/XGBOOST.ipynb) <br>
 
 Our data is tabular and binary, so XGBoost was a good choice to use to classify our data. First we used basic XGBOOST, then we turned it into a random forest to prevent overfitting. We then changed parameters and tried to get higher accuracy. Finally we did hyper-parameter tuning using GridSearchCV to find optimal hyperparameters to increase accuracy and reduce overfitting. <br>
 
