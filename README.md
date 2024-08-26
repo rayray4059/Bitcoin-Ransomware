@@ -6,11 +6,7 @@ Ransomware is a significant threat in the domain of cybersecurity. It can cause 
 ### Data
 [![Data](https://img.shields.io/badge/Data-Bitcoin%20Heist%20Ransomware%20Address-lightblue)](https://archive.ics.uci.edu/dataset/526/bitcoinheistransomwareaddressdataset)
 
-### Notebook
-[![Notebook](https://img.shields.io/badge/Notebook-Milestone%204-orange)](https://colab.research.google.com/github/Julie0827/CSE151A-Project/blob/Milestone4/bitcoin_heists_ransomware.ipynb) <br>
-[![Notebook](https://img.shields.io/badge/Notebook-Model%201-orange)](https://colab.research.google.com/github/Julie0827/CSE151A-Project/blob/Milestone4/bitcoin_heists_KNN.ipynb) <br>
-[![Notebook](https://img.shields.io/badge/Notebook-Model%202-orange)](https://colab.research.google.com/github/Julie0827/CSE151A-Project/blob/Milestone4/NeuralNetwork.ipynb) <br>
-[![Notebook](https://img.shields.io/badge/Notebook-Model%203-orange)](https://colab.research.google.com/github/Julie0827/CSE151A-Project/blob/Milestone4/XGBOOST.ipynb) <br>
+
 ## Data Exploration
 
 ### 1. Overview of the Dataset
