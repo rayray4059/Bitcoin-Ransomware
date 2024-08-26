@@ -162,7 +162,6 @@ Our output class is `label`, which contains various ransomware families and non-
     ```
 
 ## Model 1 - K-Nearest Neighbors
-[![Notebook](https://img.shields.io/badge/Notebook-Model%201-orange)](https://colab.research.google.com/github/Julie0827/CSE151A-Project/blob/Milestone4/bitcoin_heists_KNN.ipynb) <br>
 
 KNN is used here to see if there is any clustering of our data based on class. We tried using different parameters for K, but as K increases accuracy decreases so we use the parameter k = 1 for best accuracy. <br>
 ### Hyperparameter Test 1
